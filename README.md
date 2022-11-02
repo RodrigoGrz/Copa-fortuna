@@ -8,11 +8,14 @@ O copa fortuna é uma aplicação web, mobile e back-end para fazer bolão dos j
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJS
-- NextJS
+    - NextJS
 - NodeJS
-- Fastify
-- Prisma
-- SQLite
+    - Fastify
+    - Prisma
+    - SQLite
+- React Native
+    - Expo
+    - Native Base
 
 ## 😁 Como utilizar
 
